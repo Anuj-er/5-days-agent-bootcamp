@@ -67,6 +67,8 @@ This repository contains personal learning materials from the Google AI Agents I
 **Progress Tracker:**
 - ✅ Day 1a: From Prompt to Action
 - ✅ Day 1b: Agent Architectures
-- 🔄 Day 2a: Agent Tools (In Progress)
-- ⏳ Day 2b: Agent Tools Best Practices
-- ⏳ Day 3-5: Coming soon...
+- ✅ Day 2a: Agent Tools (In Progress)
+- ✅ Day 2b: Agent Tools Best Practices
+- ✅ Day 3a: Agent Sessions
+- ✅ Day 3b: Agent Memory
+- ⏳ Day 4-5: Coming soon...
